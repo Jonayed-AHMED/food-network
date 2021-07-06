@@ -5,6 +5,7 @@ body{
 }
 h1{
     font-size: 35px;
+
 }
 .span{
     color: rgb(255, 123, 0);
@@ -19,7 +20,8 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 1%;
+    padding-top: 2px;
+    
 
 }
 .half-width{
@@ -63,6 +65,7 @@ footer{
     text-align: center;
     background-color: rgb(1, 1, 15);
     background-size: 50px 100px;
+    height: 200px;
 }
 .bottom-side{
     margin-left: 1%;
@@ -74,4 +77,8 @@ h3{
 .top-side{
     margin-left: 0%;
     margin-right: 5%;
+}
+.top{
+    margin-top: 5%;
+    padding-left: 5%;
 }
