@@ -35,3 +35,14 @@ body{
 p{
     margin-bottom: 50px;
 }
+.my-recipies{
+    text-align: center;
+}
+.Recipie{
+    width: 40%;    
+    border-radius: 6%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    box-shadow: 10px 10px 30px;
+}
